@@ -63,6 +63,11 @@ h3 {
   text-align: center;
 }
 
+h5 {
+  color: white;
+  text-align: center;
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1, .bgimg-2, .bgimg-3 {
