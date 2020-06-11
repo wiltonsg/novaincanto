@@ -112,6 +112,14 @@ p {
 }
 
 /*Texto*/
+.col-lg-4 {
+  text-center
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #fff;
+}
 
 .texto-1 {
   color: #777;
