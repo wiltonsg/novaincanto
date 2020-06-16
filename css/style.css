@@ -109,7 +109,7 @@ p {
 
 /*Texto*/
 .col-lg-4 {
-  text-center
+  text-center;
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -144,6 +144,27 @@ footer.page-footer {
 }
 
 /*BootStrap*/
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+/* Fixed to the top 
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}*/
+
 .btn-outline-success {
   color: #ffe484;
   border-color: #ffe484;
