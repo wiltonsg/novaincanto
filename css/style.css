@@ -109,7 +109,7 @@ p {
 
 /*Texto*/
 .col-lg-4 {
-  text-center;
+  text-align: center;
   position: relative;
   width: 100%;
   padding-right: 15px;
