@@ -123,6 +123,12 @@ p {
 }
 
 /*BootStrap*/
+
+.navbar-dark .navbar-brand{
+    color: #fff;
+    font-family: Josefin Sans;
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
