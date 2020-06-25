@@ -94,13 +94,6 @@ p {
   line-height: 2rem;
 }
 
-/* footer */
-.footer{
-  color: #fff;
-  background-color: transparent;
-  text-align: left;
-}
-
 /*Texto Section 1*/
 .col-lg-4 {
   text-align: center;
@@ -112,7 +105,12 @@ p {
   color: #fff;
 }
 
-
+/* footer */
+.footer{
+  color: #fff;
+  background-color: transparent;
+  text-align: left;
+}
 
 /*BootStrap*/
 .bd-placeholder-img {
@@ -129,12 +127,6 @@ p {
     font-size: 3.5rem;
   }
 }
-
-/* Fixed to the top 
-body {
-  min-height: 75rem;
-  padding-top: 4.5rem;
-}*/
 
 .btn-outline-success {
   color: #ffe484;
