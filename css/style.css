@@ -90,12 +90,6 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-/* Parallax style */
-nav ul a,
-nav .brand-logo {
-  color: #444;
-}
-
 p {
   line-height: 2rem;
 }
@@ -107,7 +101,7 @@ p {
   text-align: left;
 }
 
-/*Texto*/
+/*Texto Section 1*/
 .col-lg-4 {
   text-align: center;
   position: relative;
@@ -118,30 +112,7 @@ p {
   color: #fff;
 }
 
-.texto-1 {
-  color: #777;
-  background-color:white;
-  text-align:center;
-  padding:50px 80px;
-  text-align: justify;
-}
 
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
-}
-
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-  font-size: inherit;
-}
-
-footer.page-footer {
-  margin: 0;
-}
 
 /*BootStrap*/
 .bd-placeholder-img {
