@@ -65,4 +65,4 @@ node_modules/
 .env
 
 # SWP
-.index.html.swp
+*.swp
