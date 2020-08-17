@@ -105,8 +105,8 @@ p {
     color: #fff;
 }
 
-/*Texto Sobre*/
-.sobre {
+/*Textos*/
+.texto {
     position: relative;
     color: #ddd;
     background-color: #0000;
@@ -140,7 +140,7 @@ p {
     font-family: Roboto;
 }
 
-.t-sobre {
+.t-texto {
     font-family: Josefin Sans;
 }
 
