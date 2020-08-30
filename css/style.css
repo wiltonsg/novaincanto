@@ -122,8 +122,15 @@ p {
     text-align: left;
 }
 
-/*BootStrap*/
+/* slider */
+.carousel-inner img {
+    width: 50%;
+    height: 50%;
+	position: relative;
+	padding: 50px 50px
+}
 
+/*BootStrap*/
 .presentation {
     font-family: Josefin Sans;
 }
