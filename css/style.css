@@ -1,4 +1,4 @@
-/*Fontes*/
+/* Fontes */
 /* vietnamese */
 @font-face {
     font-family: "Josefin Sans";
@@ -105,7 +105,7 @@ p {
     color: #fff;
 }
 
-/*Textos*/
+/* Textos */
 .texto {
     position: relative;
     color: #ddd;
@@ -130,7 +130,7 @@ p {
 	padding: 50px 50px
 }
 
-/*BootStrap*/
+/* BootStrap */
 .presentation {
     font-family: Josefin Sans;
 }
