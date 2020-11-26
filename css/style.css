@@ -137,6 +137,13 @@ p {
 }
 
 /* BootStrap */
+.border {
+    border: none !important;
+    background-color:transparent;
+    font-size:25px;
+    color: #f7f7f7;
+}
+
 .presentation {
     font-family: Josefin Sans;
 }
